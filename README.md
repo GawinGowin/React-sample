@@ -1,7 +1,7 @@
 # tutorial
 [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html)にて実装されているゲーム
 
-## ULMワークフロー
+## UMLワークフロー
 
 ![UML_react.drawio.png](UML_react.drawio.png)
 
