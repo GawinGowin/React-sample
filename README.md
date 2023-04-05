@@ -1,5 +1,5 @@
-# Issue#1 [チュートリアルの実装 #1]
-チュートリアル：React の導入にて実装されているゲーム
+# tutorial
+[チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html)にて実装されているゲーム
 
 ## ULMワークフロー
 
