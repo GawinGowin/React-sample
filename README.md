@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Issue#1 [チュートリアルの実装 #1]
+チュートリアル：React の導入にて実装されているゲーム
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ULMワークフロー
+
+![UML_react.drawio.png](UML_react.drawio.png)
+
+<hr>
 
 ## Available Scripts
 
