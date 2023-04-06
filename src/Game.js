@@ -1,6 +1,8 @@
+
 import React from 'react';
 
 import Board from './Board';
+import Button from '@mui/material/Button';
 
 class Game extends React.Component {
   constructor(props) {
@@ -53,7 +55,7 @@ class Game extends React.Component {
         'Go to game start';
       return (
         <li key={move}>
-          <button onClick={() => this.jumpTo(move)}>{desc}</button>
+          <Button onClick={() => this.jumpTo(move)} variant="contained" size="small">{desc}</Button>
         </li>
       );
     });
