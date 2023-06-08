@@ -1,3 +1,12 @@
+# covidapp
+[はじめてつくるReactアプリ with TypeScript （React + TypeScript入門シリーズ）](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%A4%E3%81%8F%E3%82%8BReact%E3%82%A2%E3%83%97%E3%83%AA-TypeScript-mod728-ebook/dp/B094Z1R281/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2EK2TLPF07LL7&keywords=React&qid=1680820443&refinements=p_n_special_merchandising_browse-bin%3A5304495051&rnid=5304494051&s=books&sprefix=react%2Caps%2C219&sr=1-1)におけるデモアプリ
+
+## UMLワークフロー
+
+![UML_react.drawio.png](UML_react.drawio.png)
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
